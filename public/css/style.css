@@ -1,0 +1,70 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.container{
+    flex: 1;
+}
+.navbar{
+    height: 5rem;
+    background-color: wheat;
+}
+.fa-heart {
+    color: #fe424d !important;
+    height: 2rem;
+
+}
+     .f-info-links{
+        text-decoration: none;
+        color: #222222;
+     }
+     .f-info-links a:hover{
+        text-decoration: underline;
+
+     }
+
+     .f-info{
+        height: 8rem;
+        text-align: center;
+        display: flex;
+        justify: center;
+        background-color: gray;
+        flex-wrap: wrap-reverse;
+     }
+     .f-info-links{
+        width: 100%;
+     }
+     .f-info-socials{
+        font-size: 1.5rem;
+        width: 100%;
+     }
+     .f-info-socials i{
+        margin-right: 0.6rem;
+     }
+     .card{
+        border: none !important;
+        margin-bottom: 2rem;
+     }
+     .card-img-top{
+        border-radius: 1rem !important;
+        width: 100% !important;
+        object-fit: cover !important;
+     }
+     .card-body{
+        padding: 0% !important; 
+     }
+     .card-text p{
+        font-weight: 400;
+     }
+     .listing-link{
+        text-decoration: none;
+     }
+     .card-img-overlay{
+        opacity: 0.3;
+        background-color: whitesmoke;
+     }
+     .add-btn{
+        background-color: #fe424d;
+        border: none;
+     }
