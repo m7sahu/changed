@@ -6,8 +6,7 @@ const sampleListings = [
       description:
         "Escape to this charming beachfront cottage for a relaxing getaway. Enjoy stunning ocean views and easy access to the beach.",
       image:
-        "https://images.unsplash.com/photo-1552733407-5d5c46c3bb3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
-  
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fluxury-villa&psig=AOvVaw36pgWV7zTi4ynJTqoDsBrl&ust=1723918381686000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND7ncmO-ocDFQAAAAAdAAAAABAE",
       price: 1500,
       location: "Malibu",
       country: "United States",
@@ -17,7 +16,7 @@ const sampleListings = [
       description:
         "Stay in the heart of the city in this stylish loft apartment. Perfect for urban explorers!",
       image:
-        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://www.google.com/imgres?q=villa%20image%20for%20free&imgurl=https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1680300960892-bd11b59b469b%3Ffm%3Djpg%26q%3D60%26w%3D3000%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MXx8ZHViYWklMjB2aWxsYXxlbnwwfHwwfHx8MA%253D%253D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdubai-villa&docid=DhWuSGNqROGG1M&tbnid=129lgKvKqt-y-M&vet=12ahUKEwiE0c7GjvqHAxUvTWwGHc24I28QM3oECGMQAA..i&w=3000&h=2000&hcb=2&ved=2ahUKEwiE0c7GjvqHAxUvTWwGHc24I28QM3oECGMQAA",
   
       price: 1200,
       location: "New York City",
