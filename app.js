@@ -2,6 +2,7 @@ if(process.env.NODE_ENV !== 'production'){  //we dont want for production phase
     require('dotenv').config()
 };
 
+
 const express=require('express');
 const app=express();
 const port=8080;
