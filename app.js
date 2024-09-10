@@ -2,7 +2,6 @@ if(process.env.NODE_ENV !== 'production'){  //we dont want for production phase
     require('dotenv').config()
 };
 
-
 const express=require('express');
 const app=express();
 const port=8080;
@@ -10,7 +9,7 @@ const mongoose=require('mongoose');
 const methodOverride=require('method-override');
 const path=require('path');
 const ejsMate=require('ejs-mate');
-const ExpressError=require('./utils/ExpressError');
+const ExpressError=require('./utlis/ExpressError');
 const session=require('express-session');
 const MongoStore=require('connect-mongo');
 const flash=require('connect-flash');

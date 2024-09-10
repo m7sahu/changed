@@ -1,8 +1,8 @@
 const express=require('express');
 const router=express.Router({mergeParams: true});
-const wrapAsync=require('../utlis/wrapAsync');
-const {validateReview,isLoggedIn,isReviewAuthor}=require('../middleware')
-const reviewController=require('../controllers/reviews')
+const wrapAsync = require("../utlis/wrapAsync.js");
+const {validateReview,isLoggedIn,isReviewAuthor}=require('../middleware');
+const reviewController=require('../controllers/reviews');
 
 //Post Route
 
